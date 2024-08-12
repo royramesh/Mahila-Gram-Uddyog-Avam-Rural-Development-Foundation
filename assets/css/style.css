@@ -3516,7 +3516,7 @@ hr {
 
 /* line 32, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
 .slider-area {
-  background-image: url(../img/hero/h1_hero3.png);
+  /* background-image: url(../img/hero/h1_hero3.png); */
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -8316,3 +8316,45 @@ del {
   height: 80px;
   width: auto;
 } */
+.slider-area {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.slider {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 1s ease-in-out; /* Smooth fade transition */
+  z-index: 0;
+}
+
+.slide.active {
+  opacity: 1;
+  z-index: 1;
+}
+
+.caption {
+  color: #fff;
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.hero-btn {
+  margin-top: 20px;
+}

@@ -8351,8 +8351,10 @@ del {
   color: #fff;
   text-align: left;
   max-width: 600px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   padding: 20px;
+  position: absolute;
+  bottom: 0;
 }
 
 .hero-btn {

@@ -3864,6 +3864,7 @@ hr {
 /* line 3, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_services_section.scss */
 .service-area .single-cat {
   background: #ffffff;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   border-radius: 6px;
   padding: 85px 22px;
   -webkit-transition: 0.4s;

@@ -8336,7 +8336,8 @@ del {
   height: 100%;
   top: 0;
   left: 0;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
   opacity: 0;
   transition: opacity 1s ease-in-out; /* Smooth fade transition */
@@ -8360,4 +8361,10 @@ del {
 
 .hero-btn {
   margin-top: 20px;
+}
+@media (max-width: 767px) {
+  /* line 182, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+  .caption {
+    top:0;
+  }
 }

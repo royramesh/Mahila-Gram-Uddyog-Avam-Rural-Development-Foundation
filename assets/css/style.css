@@ -8368,3 +8368,15 @@ del {
     top:0;
   }
 }
+@media (max-width: 540px) {
+  /* line 182, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+  .slider-area {
+    height: 210px;
+  }
+  .slider{
+    height: 210px;
+  }
+  .slide{
+    height: 210px;
+  }
+}

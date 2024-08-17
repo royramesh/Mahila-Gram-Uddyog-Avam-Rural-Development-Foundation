@@ -32,7 +32,12 @@
 .white-bg {
   background: #ffffff;
 }
-
+.main-header .main-menu ul .ul-active a{
+  color: #09cc7f;
+}
+.ul-active a{
+  color: #09cc7f;
+}
 /* line 36, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_color.scss */
 .gray-bg {
   background: #f5f5f5;
@@ -8380,6 +8385,3 @@ del {
     height: 210px;
   }
 }
-  .ul-active{
-    color: #09cc7f;
-  }

@@ -122,9 +122,9 @@
                                                 </li>
                                                 <li>Where We Do?
                                                     <ul class="submenu">
-                                                        <li><a href="uttar-pradesh.php">Uttar Pradesh</a></li>   
-                                                        <li><a href="Jharkhand.php">Jharkhand</a></li>
-                                                        <li><a href="chhattisgarh.php">Chhattisgarh</a></li>
+                                                        <li><a href="uttar-pradesh">Uttar Pradesh</a></li>   
+                                                        <li><a href="Jharkhand">Jharkhand</a></li>
+                                                        <li><a href="chhattisgarh">Chhattisgarh</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="about.html">Services</a></li>

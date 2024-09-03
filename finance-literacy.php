@@ -62,6 +62,46 @@
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
 
+
+
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(600px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.text-column {
+    animation: slideUp 1s ease-out;
+}
+
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-400px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(1000);
+    }
+}
+
+.image-column {
+    overflow: hidden;
+}
+
+.hover-image {
+    animation: slideDown 1s ease-out;
+}
+
+
+
 </style>
  <!--? Hero Start -->
  <div class="slider-area2">

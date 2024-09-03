@@ -113,11 +113,11 @@
                                                 </li>
                                                 <li>What We Do?
                                                     <ul class="submenu">
-                                                        <li><a href="blog.html">Women Insitutions</a></li>   
-                                                        <li><a href="blog_details.html">Livlihood</a></li>
-                                                        <li><a href="elements.html">Finance Literacy</a></li>
-                                                        <li><a href="blog.html">Social Enterprises</a></li>   
-                                                        <li><a href="blog_details.html">Youth Development</a></li>
+                                                        <li><a href="women-institution">Women Insitutions</a></li>   
+                                                        <li><a href="livlihood">Livlihood</a></li>
+                                                        <li><a href="finance-literacy">Finance Literacy</a></li>
+                                                        <li><a href="social-enterprise">Social Enterprises</a></li>   
+                                                        <li><a href="youth-development">Youth Development</a></li>
                                                     </ul>
                                                 </li>
                                                 <li>Where We Do?

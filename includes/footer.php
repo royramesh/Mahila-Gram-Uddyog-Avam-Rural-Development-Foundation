@@ -30,7 +30,7 @@
                                                 <li><a href="program.html">Programs</a></li>
                                                 <li><a href="program.html">Media</a></li>
                                                 <li><a href="program.html">Who we Are?</a></li>
-                                                <li><a href="program.html">What We Do?</a></li>
+                                                <li><a href="what_we_do.php">What We Do?</a></li>
                                                 <li><a href="program.html">Where We Do?</a></li>
                                                 <!-- <li><a href="events.html">social events </a></li>
                                                 <li><a href="blog.html">Blog</a>

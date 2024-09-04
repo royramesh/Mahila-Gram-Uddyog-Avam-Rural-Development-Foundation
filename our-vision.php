@@ -23,6 +23,7 @@
 
         .single-list{
             line-height:30.3px;
+            word-spacing:1.5px;
             
         }
     </style>
@@ -49,7 +50,7 @@
 
         <div class="col-md-12 p-3" style="background-color:#f8f9fa">
             <div class="content-section">
-                <h1>Our Transpi</h1>
+                <h1>Our Transparency Vision</h1>
                   
                 <p>Empowering women and fostering sustainable rural development through 
                     inclusive entrepreneurship, skill-building, and community-driven initiatives,
@@ -65,6 +66,7 @@
 
             
         </div>
+        <hr>    
 
         <div class="col-md-6 p-3 mt-3">
         <section class="vision">
@@ -86,7 +88,7 @@
 
         <div class="col-md-6 p-3 mt-3">
 
-             <img src="assets/img/who-we-are/vision.jpg" width="580px" height="520px">
+             <img src="assets/img/who-we-are/vision.jpg" width="580px" height="440px">
         </div>
 
         </div>

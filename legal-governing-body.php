@@ -25,7 +25,7 @@
 
         <div class="col-md-12 p-3" style="background-color:#f8f9fa">
             <div class="content-section">
-                <h1>Our Transparency Vision</h1>
+                <h1>Introduction</h1>
                   
                 <p>The Legal Governing Body of the Mahila Gram Udyog Avam 
                     Rural Development Foundation serves as the cornerstone of our
@@ -33,12 +33,26 @@
                      is dedicated to ensuring that all of our activities are conducted
                       in full compliance with applicable laws and regulations, thereby 
                       safeguarding the organization’s mission and reputation.</p>
+               <p>
+
+               <h1>Composition</h1>
+                <p>At Mahila Gram Udyog Avam Rural Development Foundation, our
+                     Legal Governing Body is essential to our ongoing commitment
+                      to excellence. By upholding the highest standards of legal 
+                      compliance and ethical governance, we ensure that our mission
+                       to empower women and support sustainable rural development is
+                        carried out with integrity and respect for the law.</p>       
             </div>
 
 
             
         </div>
         <hr>    
+
+        <div class="col-md-6 p-3 mt-3">
+
+<img src="assets/img/who-we-are/legal.jpg" width="580px" height="440px">
+</div>
 
         <div class="col-md-6 p-3 mt-3">
         <section class="vision">
@@ -58,10 +72,7 @@
 
 
 
-        <div class="col-md-6 p-3 mt-3">
-
-             <img src="assets/img/who-we-are/vision.jpg" width="580px" height="440px">
-        </div>
+       
 
         </div>
 </div>

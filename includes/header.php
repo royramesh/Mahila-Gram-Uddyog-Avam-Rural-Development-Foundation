@@ -92,7 +92,7 @@
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo2.png" alt=""></a>
+                                    <a href="index.php"><img src="assets/img/logo/logo2.png" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
@@ -128,7 +128,7 @@
                                                     </ul>
                                                 </li>
                                                 <li><a href="about.html">Services</a></li>
-                                                <li><a href="program.html">Products</a></li>
+                                                <li><a href="product.php">Products</a></li>
                                                 <li><a href="program.html">Programs</a></li>
                                                 <li><a href="blog.html">Media</a>
                                                     <ul class="submenu">

@@ -101,7 +101,7 @@
                                     <div class="main-menu d-none d-lg-block">
                                         <nav>
                                             <ul id="navigation">
-                                                <li class="ul-active"><a href="index.html">Home</a></li>
+                                                <li class="ul-active"><a href="index">Home</a></li>
                                                 <li>Who We Are?
                                                     <ul class="submenu">
                                                         <li><a href="our-vision">Our Vision</a></li>   

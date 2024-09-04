@@ -127,10 +127,10 @@
                                                         <li><a href="chhattisgarh">Chhattisgarh</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="about.html">Services</a></li>
-                                                <li><a href="product.php">Products</a></li>
-                                                <li><a href="program.html">Programs</a></li>
-                                                <li><a href="blog.html">Media</a>
+                                                <li><a href="services">Services</a></li>
+                                                <li><a href="product">Products</a></li>
+                                                <li><a href="program">Programs</a></li>
+                                                <li><a href="media">Media</a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.html">Photo</a></li>   
                                                         <li><a href="blog_details.html">Video</a></li>

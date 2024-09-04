@@ -104,11 +104,11 @@
                                                 <li class="ul-active"><a href="index.html">Home</a></li>
                                                 <li>Who We Are?
                                                     <ul class="submenu">
-                                                        <li><a href="blog.html">Our Vision</a></li>   
-                                                        <li><a href="blog_details.html">Legal Governing Body</a></li>
-                                                        <li><a href="elements.html">Team Member</a></li>
-                                                        <li><a href="blog.html">CEO</a></li>   
-                                                        <li><a href="blog_details.html">Our Impact</a></li>
+                                                        <li><a href="our-vision">Our Vision</a></li>   
+                                                        <li><a href="legal-governing-body">Legal Governing Body</a></li>
+                                                        <li><a href="team-member">Team Member</a></li>
+                                                        <li><a href="ceo">CEO</a></li>   
+                                                        <li><a href="our-impact">Our Impact</a></li>
                                                     </ul>
                                                 </li>
                                                 <li>What We Do?

@@ -172,7 +172,10 @@
         </div>
       </div>
       <!-- <h6 class="team-title">John Marshall</h6> -->
+      <div class="content-1" style="background-color:lightgrey">
       <span><strong>Pradeep Kumar</strong></span>
+      <h4 class="team-title" style="margin-top:8px;padding-bottom:6px;">Salesman</h4>
+      </div>
     </div>
   </div>
   <!-- end team member -->
@@ -196,7 +199,10 @@
         </div>
       </div>
       <!-- <h6 class="team-title">Steve Roberts</h6> -->
+      <div class="content-1" style="background-color:lightgrey">
       <span><strong>Samit Patel</strong></span>
+      <h4 class="team-title" style="margin-top:8px;padding-bottom:6px;">Salesman</h4>
+      </div>
     </div>
   </div>
   <!-- end team member -->
@@ -219,11 +225,97 @@
           </div>
         </div>
       </div>
-      
-      <span></strong>sahil kumar</strong></span>
+      <div class="content-1" style="background-color:lightgrey">
+      <span><h3><strong>Sahil kumar</strong></h3></span>
+      <h4 class="team-title" style="margin-top:8px;padding-bottom:6px;">Salesman</h4>
+      </div>
     </div>
   </div>
   <!-- end team member -->
+
+  <div class="col-md-4 col-sm-6 team-wrap">
+    <div class="team-member text-center">
+      <div class="team-img">
+        <img src="http://deothemes.com/envato/enigma/html/img/team_2.jpg" alt="">
+        <div class="overlay">
+          <div class="team-details text-center">
+            <p>
+              Our web design team will spend time with our digital marketing team.
+            </p>
+            <!-- <div class="socials mt-20">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-google-plus"></i></a>
+              <a href="#"><i class="fa fa-envelope"></i></a>
+            </div> -->
+          </div>
+        </div>
+      </div>
+      <!-- <h6 class="team-title">Steve Roberts</h6> -->
+      <div class="content-1" style="background-color:lightgrey">
+      <span><strong>Samit Patel</strong></span>
+      <h4 class="team-title" style="margin-top:8px;padding-bottom:6px;">Salesman</h4>
+      </div>
+    </div>
+  </div>
+  <!-- end team member -->
+
+
+  <div class="col-md-4 col-sm-6 team-wrap">
+    <div class="team-member text-center">
+      <div class="team-img">
+        <img src="http://deothemes.com/envato/enigma/html/img/team_2.jpg" alt="">
+        <div class="overlay">
+          <div class="team-details text-center">
+            <p>
+              Our web design team will spend time with our digital marketing team.
+            </p>
+            <!-- <div class="socials mt-20">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-google-plus"></i></a>
+              <a href="#"><i class="fa fa-envelope"></i></a>
+            </div> -->
+          </div>
+        </div>
+      </div>
+      <!-- <h6 class="team-title">Steve Roberts</h6> -->
+      <div class="content-1" style="background-color:lightgrey">
+      <span><strong>Samit Patel</strong></span>
+      <h4 class="team-title" style="margin-top:8px;padding-bottom:6px;">Salesman</h4>
+    </div>
+    </div>
+  </div>
+  <!-- end team member -->
+
+
+  <div class="col-md-4 col-sm-6 team-wrap">
+    <div class="team-member text-center">
+      <div class="team-img">
+        <img src="http://deothemes.com/envato/enigma/html/img/team_2.jpg" alt="">
+        <div class="overlay">
+          <div class="team-details text-center">
+            <p>
+              Our web design team will spend time with our digital marketing team.
+            </p>
+            <!-- <div class="socials mt-20">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-google-plus"></i></a>
+              <a href="#"><i class="fa fa-envelope"></i></a>
+            </div> -->
+          </div>
+        </div>
+      </div>
+      <!-- <h6 class="team-title">Steve Roberts</h6> -->
+       <div class="content-1" style="background-color:lightgrey">
+      <span><strong>Samit Patel</strong></span>
+      <h4 class="team-title" style="margin-top:8px;padding-bottom:6px;">Salesman</h4>
+      </div>
+    </div>
+  </div>
+  <!-- end team member -->
+
 
 </div>
 </div>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Mahila Gram Uddyog Avam Rural Development Foundation</title>
+    <title>Mahila Gram Udyog Avam Rural Development Foundation</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
@@ -36,7 +36,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/logo.jpeg" alt="">
+                    <img src="assets/img/logo/logo3.png" alt="">
                 </div>
             </div>
         </div>
@@ -92,7 +92,7 @@
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
-                                    <a href="index.php"><img src="assets/img/logo/logo2.png" alt="" width="280px" height="50px"></a>
+                                    <a href="index.php"><img src="assets/img/logo/logo3.png" alt="" width="auto" height="100px"></a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">

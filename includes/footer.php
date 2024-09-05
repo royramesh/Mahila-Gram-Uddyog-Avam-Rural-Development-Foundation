@@ -28,7 +28,7 @@
                                                 <li><a href="services">Services</a></li>
                                                 <li><a href="product">Products</a></li>
                                                 <li><a href="program">Programs</a></li>
-                                                <li><a href="media">Media</a></li>
+                                                <li><a href="multi-media">Media</a></li>
                                                 <li><a href="program.html">Who we Are?</a></li>
                                                 <li><a href="what_we_do.php">What We Do?</a></li>
                                                 <li><a href="program.html">Where We Do?</a></li>

@@ -132,9 +132,9 @@
                                                 <li><a href="program">Programs</a></li>
                                                 <li><a href="media">Media</a>
                                                     <ul class="submenu">
-                                                        <li><a href="multi-media.php#gallery">Photo</a></li>   
-                                                        <li><a href="multi-media.php#video">Video</a></li>
-                                                        <li><a href="multi-media.php#news-event">News & Events</a></li>
+                                                        <li><a href="multi-media.php#gallery" target="_blank">Photo</a></li>   
+                                                        <li><a href="multi-media.php#video" target="_blank">Video</a></li>
+                                                        <li><a href="multi-media.php#news-event" target="_blank">News & Events</a></li>
                                                         <!-- <li><a href="elements.html">Media</a></li> -->
                                                     </ul>
                                                 </li>

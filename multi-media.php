@@ -11,7 +11,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2 pt-20 text-center">
-                                <h2>Gallery</h2>
+                                <h2>Photo</h2>
                             </div>
                         </div>
                     </div>
@@ -23,7 +23,7 @@
         <div class="container">
         <div class="row justify-content-center" style="margin-bottom: 150px; margin-top:-60px">
 
-        <h3>I am video</h3>
+        <h3>I am Photo</h3>
 
 
         </div>

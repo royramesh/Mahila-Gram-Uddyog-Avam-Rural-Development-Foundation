@@ -53,7 +53,7 @@
         <div class=" justify-content-center">
           <br><br>
           <!-- <p>This is the content of the second section.</p> -->
-          <img src="assets/img/what-we-do/mahila.jpg" width="540px" height="420px" style="border: 4px solid lightslategrey;border-radius: 6px;">
+          <img src="assets/img/what-we-do/mahila.jpg" class="img-fluid" width="540px" height="420px" style="border: 4px solid lightslategrey;border-radius: 6px;">
         </div>
       </div>
       <br><br>

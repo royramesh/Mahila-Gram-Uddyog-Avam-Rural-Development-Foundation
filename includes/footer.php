@@ -1,7 +1,7 @@
 <footer>
         <div class="footer-wrapper section-bg2" data-background="assets/img/gallery/footer_bg.png">
             <!-- Footer Top-->
-            <div class="footer-area footer-padding">
+            <div class="footer-area footer-padding text-center">
                 <div class="container">
                     <div class="row d-flex justify-content-between">
                         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
@@ -24,11 +24,11 @@
                                 <div class="footer-tittle">
                                     <h4>Important Link</h4>
                                     <ul>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="about.html">Services</a></li>
-                                                <li><a href="program.html">Products</a></li>
-                                                <li><a href="program.html">Programs</a></li>
-                                                <li><a href="program.html">Media</a></li>
+                                                <li><a href="about">About</a></li>
+                                                <li><a href="services">Services</a></li>
+                                                <li><a href="product">Products</a></li>
+                                                <li><a href="program">Programs</a></li>
+                                                <li><a href="media">Media</a></li>
                                                 <li><a href="program.html">Who we Are?</a></li>
                                                 <li><a href="what_we_do.php">What We Do?</a></li>
                                                 <li><a href="program.html">Where We Do?</a></li>
@@ -59,7 +59,7 @@
                                         Copyright &copy;
                                         <script>document.write(new Date().getFullYear());</script> All rights reserved |
                                         Design and Developed with <i class="fa fa-heart" aria-hidden="true"></i> by <a
-                                            href="https://www.royinformatics.com/" target="_blank">Roy Informatics</a>
+                                            href="https://www.royinformatics.com/" target="_blank">Roy Informatics Pvt. Ltd.</a>
                                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                                     </p>
                                 </div>

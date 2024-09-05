@@ -134,11 +134,45 @@
   width: 100%;
   height: 100%;
 }
+
+
+
+
+
+
+
+
+.pb-video-container {
+        padding: 40px;
+        background: #F5F7F8;
+        font-family: Lato;
+    }
+
+    .pb-video {
+        border: 8px solid #e6e6e6;
+        padding: 5px;
+    }
+
+        .pb-video:hover {
+            background: lightgrey;
+        }
+
+    .pb-video-frame {
+        transition: width 2s, height 2s;
+    }
+
+        .pb-video-frame:hover {
+            height: 300px;
+        }
+
+    .pb-row {
+        margin-bottom: 10px;
+    }
 </style>  
 
 <!--? Hero Start -->
 
-
+<!---------photo section---------->
         <section id="gallery">
 
         <div class="slider-area2">
@@ -185,7 +219,7 @@
   </figure>
   <figure>
   <img src="assets/img/multi-media/gallery/image4.jpg">
-   <figcaption>Yellowstone National Park <small>United States</small></figcaption>
+   <!-- <figcaption>Yellowstone National Park <small>United States</small></figcaption> -->
   </figure>
   <figure>
   <img src="assets/img/multi-media/gallery/image5.jpg">
@@ -239,8 +273,9 @@
         </div>
 
         </section> 
+<!----xx-----photo section----xx------>
 
-
+<!---------video section---------->
 <section id="video">
 
 <div class="slider-area2">
@@ -261,16 +296,43 @@
 <div class="container">
 <div class="row justify-content-center" style="margin-bottom: 150px; margin-top:-60px">
 
-<h3>I am video</h3>
+<div class="container-fluid pb-video-container">
+    <div class="col-md-10 offset-md-1">
+        <h3 class="text-xs-center text-center">Video Hub</h3>
+        <div class="row pb-row">
+            <div class="col-md-6 pb-video">
+            <iframe class="pb-video-frame" width="100%" height="230" src="assets/img/multi-media/video/video1.mp4"  frameborder="0" allowfullscreen controls></iframe>
+                <label class="form-control label-warning text-xs-center">Claydee - Alena</label>
+            </div>
+            <div class="col-md-6 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="assets/img/multi-media/video/video2.mp4" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-xs-center">Manuel Riva - Mhm Mhm</label>
+            </div>
+         
+        </div>
+        <div class="row pb-row">
+            <div class="col-md-6 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/UY1bt8ilps4?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-xs-center">F.O. and Peeva - Lichnata</label>
+            </div>
+            <div class="col-md-6 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/QpbQ4I3Eidg?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-xs-center">Machine Gun - Bad Things</label>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
 
 
 </div>
 </div>
 
 </section> 
+<!----xx-----video section----xx------>
 
-
-
+<!---------news & media section---------->
 <section id="news-event">
 
 <div class="slider-area2">
@@ -291,14 +353,92 @@
 <div class="container">
 <div class="row justify-content-center" style="margin-bottom: 150px; margin-top:-60px">
 
-<h3>I am news & Media</h3>
+<div class="row">
 
+    <div class="col-md-6">
+       <section>
+         <div class="row"> 
+              <div class="col-md-8">
+               <h3>Caption Header</h3>
+               <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+
+              </div>
+
+              <div class="col-md-4">
+                <img src="assets/img/multi-media/gallery/image4.jpg" width="180px" height="200px">
+
+             </div>
+         </div>
+        </section>
+    </div>
+
+  
+     <div class="col-md-6">
+       <section>
+         <div class="row"> 
+              <div class="col-md-8">
+                 <h3>Caption Header</h3>
+                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+
+
+              </div>
+
+              <div class="col-md-4">
+               <img src="assets/img/multi-media/gallery/image4.jpg" width="180px" height="200px">
+
+             </div>
+         </div>
+        </section>
+    </div>
+
+
+
+     <div class="col-md-6">
+       <section>
+         <div class="row"> 
+              <div class="col-md-8">
+                 <h3>Caption Header</h3>
+                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+
+
+              </div>
+
+              <div class="col-md-4">
+               <img src="assets/img/multi-media/gallery/image4.jpg" width="180px" height="200px">
+
+             </div>
+         </div>
+        </section>
+    </div>
+
+
+     <div class="col-md-6">
+       <section>
+         <div class="row"> 
+              <div class="col-md-8">
+                 
+                 <h3>Caption Header</h3>
+                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+
+
+              </div>
+
+              <div class="col-md-4">
+               <img src="assets/img/multi-media/gallery/image4.jpg" width="180px" height="200px">
+
+             </div>
+         </div>
+        </section>
+    </div>
+
+
+</div>
 
 </div>
 </div>
 
 </section> 
-
+<!----xx-----news & media section----xx------>
 
 
 <script>

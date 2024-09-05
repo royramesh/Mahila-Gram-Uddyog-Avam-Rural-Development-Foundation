@@ -132,10 +132,10 @@
                                                 <li><a href="program">Programs</a></li>
                                                 <li><a href="media">Media</a>
                                                     <ul class="submenu">
-                                                        <li><a href="blog.html">Photo</a></li>   
-                                                        <li><a href="blog_details.html">Video</a></li>
-                                                        <li><a href="elements.html">News & Events</a></li>
-                                                        <li><a href="elements.html">Media</a></li>
+                                                        <li><a href="multi-media.php#gallery">Photo</a></li>   
+                                                        <li><a href="multi-media.php#video">Video</a></li>
+                                                        <li><a href="multi-media.php#news-event">News & Events</a></li>
+                                                        <!-- <li><a href="elements.html">Media</a></li> -->
                                                     </ul>
                                                 </li>
                                                 <li><a href="contact.php">Contact</a></li>

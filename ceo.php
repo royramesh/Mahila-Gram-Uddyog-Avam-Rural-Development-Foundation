@@ -95,8 +95,8 @@
         <h5>hello brother</h5>
 </span> -->
     </div>      
-    <p> Sincerely, <br>My CEO Name <br>
-    CEO, Mahila Gram Udyog Avam Rural Development Foundation</p>
+    <p> Sincerely, <br><strong style='color:#28a745;'>Vivek Mudgal</strong> <br>
+   <strong> CEO, Mahila Gram Udyog Avam Rural Development Foundation</strong></p>
 
           </div>
 

@@ -88,7 +88,7 @@
 
         <div class="col-md-6 p-3 mt-3">
 
-             <img src="assets/img/who-we-are/vision.jpg" width="580px" height="440px">
+             <img src="assets/img/who-we-are/vision.jpg" width="580px" height="440px" class="img-fluid">
         </div>
 
         </div>

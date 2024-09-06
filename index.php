@@ -319,7 +319,7 @@
                     </div>
                     <div class="cat-cap">
                         <h5>
-                            <a href="services.html">Community Development</a>
+                            <a href="services">Community Development</a>
                         </h5>
                         <p>Enhancing local quality of life through infrastructure improvements, education, and
                             health services, fostering vibrant, self-sustaining communities.</p>
@@ -332,7 +332,7 @@
                         <span>&#8377;</span>
                     </div>
                     <div class="cat-cap">
-                        <h5><a href="services.html">Economic Development</a></h5>
+                        <h5><a href="services">Economic Development</a></h5>
                         <p>Stimulating local economies by creating job opportunities, supporting small
                             businesses, and attracting investments to foster economic growth and stability.</p>
                     </div>
@@ -344,7 +344,7 @@
                         <span><i class="fas fa-building"></i></span>
                     </div>
                     <div class="cat-cap">
-                        <h5><a href="services.html">Enterprise Development</a></h5>
+                        <h5><a href="services">Enterprise Development</a></h5>
                         <p>Encouraging the growth of businesses through training, resources, and financial
                             support to drive innovation, create jobs, and boost local economies.</p>
                     </div>

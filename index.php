@@ -13,6 +13,7 @@
      display: flex;
    /* flex-wrap: wrap;
     gap: 20px; */
+    margin-top:-40px;
 }
 
 .event-card {
@@ -86,6 +87,10 @@
         gap: 10px;
     }
 }
+
+
+
+
 </style>
 
 
@@ -863,16 +868,21 @@
 <div class="container mb-5">
        
         <div class="row justify-content-center">
-            <div class="col-xl-5 col-lg-6 col-md-9 col-sm-10">
-                <div class="section-tittle text-center mb-90">
+          <section class="featured-job-area section-padding30 section-bg2"
+    data-background="">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xl-7 col-lg-9 col-md-10 col-sm-12">
+        
+                <div class="section-tittle text-center mb-80">
                     <span>Upcoming Programs</span>
-                    <div class="section-tittle text-center mb-80">
-                    <span>What we are boing</span>
                     <h2>We arrange many social events for charity donations</h2>
-                </div>
                 </div>
             </div>
         </div>
+
+   </div>
+</section> 
         <!-- <div class="row g-4">
        
             <div class="col-md-5 m-5">

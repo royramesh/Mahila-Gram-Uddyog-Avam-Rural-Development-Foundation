@@ -67,7 +67,7 @@
                         </div>
                         <div class="blog-cap">
                             <p>Market Research</p>
-                            <h3><a href="blog_details.html">Involves gathering data and insights to understand
+                            <h3><a href="">Involves gathering data and insights to understand
                                     the needs, preferences, and behaviors of women in the target community.</a>
                             </h3>
                         </div>
@@ -87,7 +87,7 @@
                         </div>
                         <div class="blog-cap">
                             <p>Enterprise Consultancy</p>
-                            <h3><a href="blog_details.html">An Enterprise Consultancy focuses on understanding
+                            <h3><a href="">An Enterprise Consultancy focuses on understanding
                                     the needs, challenges, and opportunities within target industries or
                                     businesses to provide tailored consulting services.</a></h3>
                         </div>

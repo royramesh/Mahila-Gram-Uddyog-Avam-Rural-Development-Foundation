@@ -130,6 +130,7 @@
                                                 <li><a href="services">Services</a></li>
                                                 <li><a href="product">Products</a></li>
                                                 <li><a href="program">Programs</a></li>
+                                                <li><a href="team-member">Team</a></li>
                                                 <li><a href="multi-media">Media</a>
                                                     <ul class="submenu">
                                                         <li><a href="multi-media.php#gallery" target="_blank">Photo</a></li>   

@@ -60,6 +60,9 @@
     justify-content: space-between;
     align-items: center;
     font-size: 0.9rem;
+    background-color:#F5F5F5;
+    padding:6px;
+    border-radius:4px;
 }
 
 .event-info .location, .event-info .date {

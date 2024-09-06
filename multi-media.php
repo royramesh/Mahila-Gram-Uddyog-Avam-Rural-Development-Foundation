@@ -142,6 +142,10 @@
 
 
 
+
+
+
+
 .pb-video-container {
         padding: 40px;
         background: #F5F7F8;
@@ -168,6 +172,81 @@
     .pb-row {
         margin-bottom: 10px;
     }
+
+
+
+
+
+
+    .news-section {
+    background-color: #f7f4ef;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.news-section:hover {
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.news-section h3 {
+    font-size: 2rem;
+    color: #333;
+    font-family: 'Georgia', serif;
+    margin-bottom: 15px;
+}
+
+.news-section p {
+    font-size: 1.7rem;
+    color: #666;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    text-align: justify;
+    word-spacing:1.3px;
+}
+
+.news-section .read-more {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.news-section .read-more:hover {
+    background-color: #2980b9;
+}
+
+.image-area img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.image-area img:hover {
+    transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+    .row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .image-area {
+        margin-top: 20px;
+    }
+}
+
+    
 </style>  
 
 <!--? Hero Start -->
@@ -355,25 +434,111 @@
 
 <div class="row">
 
-    <div class="col-md-6">
-       <section>
-         <div class="row"> 
-              <div class="col-md-8">
-               <h3>Caption Header</h3>
-               <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+<div class="news-section">
+    <section>
+        <div class="row"> 
+            <div class="col-md-8 content-area">
+                <h3>Caption Header</h3>
+                <p>
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                </p>
+                <!-- <a href="#" class="read-more">Read More</a> -->
+            </div>
+            <div class="col-md-4 image-area">
+                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+            </div>
+        </div>
+    </section>
+</div>
 
-              </div>
+<div class="news-section">
+    <section>
+        <div class="row"> 
+            <div class="col-md-8 content-area">
+                <h3>Caption Header</h3>
+                <p>
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                </p>
+                <!-- <a href="#" class="read-more">Read More</a> -->
+            </div>
+            <div class="col-md-4 image-area">
+                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+            </div>
+        </div>
+    </section>
+</div>
 
-              <div class="col-md-4">
-                <img src="assets/img/multi-media/gallery/image4.jpg" width="180px" height="200px">
+<div class="news-section">
+    <section>
+        <div class="row"> 
+            <div class="col-md-8 content-area">
+                <h3>Caption Header</h3>
+                <p>
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                </p>
+                <!-- <a href="#" class="read-more">Read More</a> -->
+            </div>
+            <div class="col-md-4 image-area">
+                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+            </div>
+        </div>
+    </section>
+</div>
 
-             </div>
-         </div>
-        </section>
-    </div>
+<div class="news-section">
+    <section>
+        <div class="row"> 
+            <div class="col-md-8 content-area">
+                <h3>Caption Header</h3>
+                <p>
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                </p>
+                <!-- <a href="#" class="read-more">Read More</a> -->
+            </div>
+            <div class="col-md-4 image-area">
+                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+            </div>
+        </div>
+    </section>
+</div>
+
+<div class="news-section">
+    <section>
+        <div class="row"> 
+            <div class="col-md-8 content-area">
+                <h3>Caption Header</h3>
+                <p>
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                </p>
+                <!-- <a href="#" class="read-more">Read More</a> -->
+            </div>
+            <div class="col-md-4 image-area">
+                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+            </div>
+        </div>
+    </section>
+</div>
+
+<div class="news-section">
+    <section>
+        <div class="row"> 
+            <div class="col-md-8 content-area">
+                <h3>Caption Header</h3>
+                <p>
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                </p>
+                <!-- <a href="#" class="read-more">Read More</a> -->
+            </div>
+            <div class="col-md-4 image-area">
+                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+            </div>
+        </div>
+    </section>
+</div>
+
 
   
-     <div class="col-md-6">
+     <!-- <div class="col-md-6 news-section">
        <section>
          <div class="row"> 
               <div class="col-md-8">
@@ -389,47 +554,14 @@
              </div>
          </div>
         </section>
-    </div>
+    </div> -->
 
 
 
-     <div class="col-md-6">
-       <section>
-         <div class="row"> 
-              <div class="col-md-8">
-                 <h3>Caption Header</h3>
-                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+     
 
 
-              </div>
-
-              <div class="col-md-4">
-               <img src="assets/img/multi-media/gallery/image4.jpg" width="180px" height="200px">
-
-             </div>
-         </div>
-        </section>
-    </div>
-
-
-     <div class="col-md-6">
-       <section>
-         <div class="row"> 
-              <div class="col-md-8">
-                 
-                 <h3>Caption Header</h3>
-                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
-
-
-              </div>
-
-              <div class="col-md-4">
-               <img src="assets/img/multi-media/gallery/image4.jpg" width="180px" height="200px">
-
-             </div>
-         </div>
-        </section>
-    </div>
+     
 
 
 </div>

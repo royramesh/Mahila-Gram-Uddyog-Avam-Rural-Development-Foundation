@@ -1,7 +1,7 @@
 <footer>
         <div class="footer-wrapper section-bg2" data-background="assets/img/gallery/footer_bg.png">
             <!-- Footer Top-->
-            <div class="footer-area footer-padding text-center">
+            <div class="footer-area footer-padding">
                 <div class="container">
                     <div class="row d-flex justify-content-between">
                         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">

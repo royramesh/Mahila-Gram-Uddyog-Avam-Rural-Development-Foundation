@@ -33,7 +33,7 @@
 
                         
                         <p class="card-price">&#8377;19.99</p>
-                        <a href="contact.html" class="btn">BUY</a>
+                        <a href="#" class="btn">BUY</a>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                         <h5 class="card-title">Hawai Chapple</h5>
                         
                         <p class="card-price">&#8377;29.99</p>
-                        <a href="contact.html" class="btn">BUY</a>
+                        <a href="#" class="btn">BUY</a>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                         <h5 class="card-title">Jut Bag</h5>
                         
                         <p class="card-price">&#8377;39.99</p>
-                        <a href="contact.html" class="btn">BUY</a>
+                        <a href="#" class="btn">BUY</a>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                         <h5 class="card-title">Handicraft Product </h5>
                         
                         <p class="card-price">&#8377;49.99</p>
-                        <a href="contact.html" class="btn">BUY</a>
+                        <a href="#" class="btn">BUY</a>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                         <h5 class="card-title">Handloom Product </h5>
                         
                         <p class="card-price">&#8377;59.99</p>
-                        <a href="contact.html" class="btn">BUY</a>
+                        <a href="#" class="btn">BUY</a>
                     </div>
                 </div>
             </div>
@@ -98,7 +98,7 @@
                         <h5 class="card-title">Housekeeping Product </h5>
                         
                         <p class="card-price">&#8377;69.99</p>
-                        <a href="contact.html" class="btn">BUY</a>
+                        <a href="#" class="btn">BUY</a>
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                         <h5 class="card-title">Agarbatti</h5>
                         
                         <p class="card-price">&#8377;79.99</p>
-                        <a href="contact.html" class="btn">BUY</a>
+                        <a href="#" class="btn">BUY</a>
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                         <h5 class="card-title">Rugs</h5>
                         
                         <p class="card-price">&#8377;89.99</p>
-                        <a href="contact.html" class="btn">BUY</a>
+                        <a href="#" class="btn">BUY</a>
                     </div>
                 </div>
             </div>

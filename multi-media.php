@@ -280,61 +280,71 @@
 -->
 <div class="gallery">
   <figure>
-    <img src="assets/img/multi-media/gallery/image1.jpg">
-
-    <!-- <figcaption>Daytona Beach <small>United States</small></figcaption> -->
-  </figure>
-  <figure>
-  <img src="assets/img/multi-media/gallery/image2.jpg">
-    
-    <!-- <figcaption>Териберка, gorod Severomorsk <small>Russia</small></figcaption> -->
-  </figure>
-  <figure>
-  <img src="assets/img/multi-media/gallery/image3.jpg">
-    
-    <!-- <figcaption>
-      Bad Pyrmont <small>Deutschland</small>
-    </figcaption> -->
-  </figure>
-  <figure>
-  <img src="assets/img/multi-media/gallery/image4.jpg">
-   <!-- <figcaption>Yellowstone National Park <small>United States</small></figcaption> -->
-  </figure>
-  <figure>
-  <img src="assets/img/multi-media/gallery/image5.jpg">
-   <!-- <figcaption>Quiraing, Portree <small>United Kingdom</small></figcaption> -->
-  </figure>
-  <figure>
-  <img src="assets/img/multi-media/gallery/image6.jpg">
-    <!-- <figcaption>Highlands <small>United States</small></figcaption> -->
-  </figure>
-  <figure>
     <img src="assets/img/hero/1.png" alt="" />
-    <!-- <figcaption>Daytona Beach <small>United States</small></figcaption> -->
   </figure>
   <figure>
     <img src="assets/img/hero/2.png" alt="" />
-    <!-- <figcaption>Териберка, gorod Severomorsk <small>Russia</small></figcaption> -->
   </figure>
   <figure>
     <img src="assets/img/hero/3.png" alt="" />
-    <!-- <figcaption>
-      Bad Pyrmont <small>Deutschland</small>
-    </figcaption> -->
   </figure>
   <figure>
     <img src="assets/img/hero/4.png" alt="" />
-    <!-- <figcaption>Yellowstone National Park <small>United States</small></figcaption> -->
   </figure>
   <figure>
     <img src="assets/img/hero/5.png" alt="" />
-    <!-- <figcaption>Quiraing, Portree <small>United Kingdom</small></figcaption> -->
   </figure>
   <figure>
     <img src="assets/img/hero/6.png" alt="" />
-    <!-- <figcaption>Highlands <small>United States</small></figcaption> -->
+  </figure>
+  <!-- Adding new images up to 21 -->
+  <figure>
+    <img src="assets/img/hero/7.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/8.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/9.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/10.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/11.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/12.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/13.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/14.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/15.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/16.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/17.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/18.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/19.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/20.png" alt="" />
+  </figure>
+  <figure>
+    <img src="assets/img/hero/21.png" alt="" />
   </figure>
 </div>
+
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
   <symbol id="close" viewBox="0 0 18 18">

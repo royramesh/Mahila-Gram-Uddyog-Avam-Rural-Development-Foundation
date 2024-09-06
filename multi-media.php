@@ -479,14 +479,24 @@
     <section>
         <div class="row"> 
             <div class="col-md-8 content-area">
-                <h3>Caption Header</h3>
+                <h3><strong>WOMEN'S GROUP WILL GET MACHINE FOR MAKING SHOES</strong></h3>
                 <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+              
+
+                On Wednesday, a significant event took place at the Central Charan Paduka Sansthan (CFTI) in Shastripuram, where the Khadi Village Industries Office, Meerut, honored women from a self-help group who had successfully completed an extensive shoe-making training program. This comprehensive training covered various essential skills, including cutting, stretching, lasting, pasting, and finishing, equipping the participants with the knowledge and expertise needed to create high-quality footwear. Over the course of the program, these dedicated women produced a remarkable total of 70 pairs of shoes and slippers.
+
+To acknowledge and support their hard work and accomplishments, the Khadi Village Industries Office announced that they would be providing the group with advanced machinery valued at approximately five lakh rupees. This generous contribution aims to facilitate and streamline further production, enabling the women to enhance their craft and expand their business operations.
+
+The closing ceremony of this impactful training program was held at the Central Charan Paduka Sansthan, and it was a moment of celebration and recognition for all involved. During the ceremony, Rajesh Srivastava, the Director of the Khadi Village Industries Office, highlighted an important development: the office’s work area will be expanded to double its current size. This strategic move is expected to significantly enhance the office’s operational capabilities and provide more robust support for similar self-help initiatives in the future. The expansion will allow for increased productivity and better resources for those involved in such empowering programs.
+
+Sanatan Sahu, the Director of Central Charan Paduka Sansthan, was also present at the ceremony, underscoring the collaborative effort between the two organizations in advancing skill development and promoting sustainable livelihoods through such initiatives.
+
+
                 </p>
                 <!-- <a href="#" class="read-more">Read More</a> -->
             </div>
             <div class="col-md-4 image-area">
-                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+                <img src="assets/img/multi-media/news/1.jpeg" alt="Gallery Image">
             </div>
         </div>
     </section>
@@ -496,14 +506,22 @@
     <section>
         <div class="row"> 
             <div class="col-md-8 content-area">
-                <h3>Caption Header</h3>
+                <h3><strong>WOMEN FORM GROUP AND OPEN SHOE FACTORY IN VILLAGE</strong></h3>
                 <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                Ali Abbas, Agra
+
+In Gadhi Navaliya village of Tajganj, ten women, seeking employment, formed their own group and established a shoe factory. They received training from the Central Footwear Training Institute (CFTI) and financial assistance of Rs 4 lakh from the Khadi Village Industries Commission.
+
+This initiative began two years ago when women like Sheela Yadav, Reena Yadav, and Kishori from Gadhi Navaliya were searching for work. They were guided by the self-help group Sakhi Babli, who encouraged them to collaborate rather than pursue separate jobs. By November 2021, they formed the Guru Shakti Self Help Group, opened a bank account, and committed to becoming trained shoe artisans.
+
+In February 2022, the women received two months of training at SEFTII in Sikandra Industrial Area from Director Sanatan Sahu. With the training complete, they inaugurated their factory in December 2022, thanks to a financial boost from the Khadi Village Industries Commission and a significant contribution of raw materials from Madhu Yadav, owner of Madhuram Industries.
+
+Currently, the women earn two to three thousand rupees monthly, marking a step towards self-reliance. They aim to expand further, with future plans already in place.
                 </p>
                 <!-- <a href="#" class="read-more">Read More</a> -->
             </div>
             <div class="col-md-4 image-area">
-                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+                <img src="assets/img/multi-media/news/2.jpeg" alt="Gallery Image">
             </div>
         </div>
     </section>
@@ -513,72 +531,19 @@
     <section>
         <div class="row"> 
             <div class="col-md-8 content-area">
-                <h3>Caption Header</h3>
+                <h3><strong>HOPE BRIGHTENED BY INCENSE STICKS, DIWALI WILL BE CELEBRATED ON HOLI WOMEN'S DAY</strong></h3>
                 <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-                </p>
+                A group of 45 women, including Sheela Yadav from Kuan Kheda and Babli Yadav from Garhi Navaliya, is celebrating Holi with a special joy, thanks to their new incense stick industry. They formed the Mahila Rural Development Foundation to achieve financial independence. Facing challenges with capital and market access, they received support from the Khadi Village Industries Commission, which provided 80% of the required funding and essential equipment. The women contributed 20% of the capital themselves and underwent training starting February 1. With this support, they began production on Women’s Day and will start selling their incense sticks this Holi.
+
+The initiative, backed by the Khadi Village Industries Commission and facilitated by individuals like Assistant Director HN Meena and Madhuram Industries' Madhu Yadav, aims to empower the women financially. Each woman is expected to earn between 140 to 175 rupees per day, helping them to support themselves and their families. </p>
                 <!-- <a href="#" class="read-more">Read More</a> -->
             </div>
             <div class="col-md-4 image-area">
-                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
+                <img src="assets/img/multi-media/news/3.jpeg" alt="Gallery Image">
             </div>
         </div>
     </section>
 </div>
-
-<div class="news-section">
-    <section>
-        <div class="row"> 
-            <div class="col-md-8 content-area">
-                <h3>Caption Header</h3>
-                <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-                </p>
-                <!-- <a href="#" class="read-more">Read More</a> -->
-            </div>
-            <div class="col-md-4 image-area">
-                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
-            </div>
-        </div>
-    </section>
-</div>
-
-<div class="news-section">
-    <section>
-        <div class="row"> 
-            <div class="col-md-8 content-area">
-                <h3>Caption Header</h3>
-                <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-                </p>
-                <!-- <a href="#" class="read-more">Read More</a> -->
-            </div>
-            <div class="col-md-4 image-area">
-                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
-            </div>
-        </div>
-    </section>
-</div>
-
-<div class="news-section">
-    <section>
-        <div class="row"> 
-            <div class="col-md-8 content-area">
-                <h3>Caption Header</h3>
-                <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-                </p>
-                <!-- <a href="#" class="read-more">Read More</a> -->
-            </div>
-            <div class="col-md-4 image-area">
-                <img src="assets/img/multi-media/gallery/image4.jpg" alt="Gallery Image">
-            </div>
-        </div>
-    </section>
-</div>
-
-
-  
      <!-- <div class="col-md-6 news-section">
        <section>
          <div class="row"> 

@@ -53,7 +53,7 @@
                                 <div class="header-info-left d-flex">
                                     <ul>
                                         <li>Phone: +91 7037784424</li>
-                                        <li>Email: noreply@yourdomain.com</li>
+                                        <li>Email: info@mahilagramudyog.org</li>
                                     </ul>
                                     <div class="header-social">
                                         <ul>

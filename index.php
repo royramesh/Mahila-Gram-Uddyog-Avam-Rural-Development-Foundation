@@ -1,5 +1,94 @@
 <?php include('includes/header.php');  ?>
 
+<style>
+    .event-container {
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 20px; */
+}
+
+.row {
+     display: flex;
+   /* flex-wrap: wrap;
+    gap: 20px; */
+}
+
+.event-card {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 48%;
+    margin-bottom: 20px;
+}
+
+.event-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+.event-image img {
+    width: 100%;
+    height: auto;
+    border-bottom: 2px solid #ddd;
+}
+
+.event-details {
+    padding: 15px;
+}
+
+.event-details h3 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.event-details p {
+    font-size: 1.6rem;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.event-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    background-color:#F5F5F5;
+    padding:6px;
+    border-radius:4px;
+}
+
+.event-info .location, .event-info .date {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #555;
+}
+
+.event-info img {
+    width: 20px;
+    height: 18px;
+}
+
+@media (max-width: 768px) {
+    .event-card {
+        width: 100%;
+    }
+
+    .row {
+        gap: 10px;
+    }
+}
+</style>
+
+
 <main>
 
 <div class="slider-area">
@@ -685,12 +774,12 @@
 </div>
 <!-- Our Cases End -->
 <!-- Featured_job_start -->
-<section class="featured-job-area section-padding30 section-bg2"
+<!-- <section class="featured-job-area section-padding30 section-bg2"
     data-background="assets/img/gallery/section_bg03.png">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-7 col-lg-9 col-md-10 col-sm-12">
-                <!-- Section Tittle -->
+        
                 <div class="section-tittle text-center mb-80">
                     <span>What we are boing</span>
                     <h2>We arrange many social events for charity donations</h2>
@@ -699,7 +788,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-9 col-md-12">
-                <!-- single-job-content -->
+             
                 <div class="single-job-items mb-30">
                     <div class="job-items">
                         <div class="company-img">
@@ -710,7 +799,7 @@
                                 <h4>Donation is Hope</h4>
                             </a>
                             <ul>
-                                <li><i class="far fa-clock"></i>8:30 - 9:30am</li>
+                               
                                 <li><i class="fas fa-sort-amount-down"></i>18.01.2021</li>
                                 <li><i class="fas fa-map-marker-alt"></i>Athens, Greece</li>
                             </ul>
@@ -719,7 +808,7 @@
                 </div>
             </div>
             <div class="col-lg-9 col-md-12">
-                <!-- single-job-content -->
+             
                 <div class="single-job-items mb-30">
                     <div class="job-items">
                         <div class="company-img">
@@ -730,7 +819,7 @@
                                 <h4>A hand for Children</h4>
                             </a>
                             <ul>
-                                <li><i class="far fa-clock"></i>8:30 - 9:30am</li>
+                                
                                 <li><i class="fas fa-sort-amount-down"></i>18.01.2021</li>
                                 <li><i class="fas fa-map-marker-alt"></i>Athens, Greece</li>
                             </ul>
@@ -739,18 +828,23 @@
                 </div>
             </div>
             <div class="col-lg-9 col-md-12">
-                <!-- single-job-content -->
+                
                 <div class="single-job-items mb-30">
-                    <div class="job-items">
+                    <div class="d-flex job-items">
                         <div class="company-img">
                             <a href="#"><img src="assets/img/gallery/socialEvents3.png" alt=""></a>
+                            <h4 style="font-size:24px;">Help for Children</h4>
+                            <P>Join us for an exciting event where you will learn new skills and network with professionals in the industry.
+                Join us for an exciting event where you will learn new skills and network with professionals in the industry.
+                Join us for an exciting event where you will learn new skills and network with professionals in the industry.</P>
+                            </a>
                         </div>
                         <div class="job-tittle">
                             <a href="#">
-                                <h4>Help for Children</h4>
-                            </a>
+                                <h4 class="text-center">Help for Children</h4>
+                                
                             <ul>
-                                <li><i class="far fa-clock"></i>8:30 - 9:30am</li>
+                              
                                 <li><i class="fas fa-sort-amount-down"></i>18.01.2021</li>
                                 <li><i class="fas fa-map-marker-alt"></i>Athens, Greece</li>
                             </ul>
@@ -760,7 +854,215 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
+
+
+
+
+
+<div class="container mb-5">
+       
+        <div class="row justify-content-center">
+            <div class="col-xl-5 col-lg-6 col-md-9 col-sm-10">
+                <div class="section-tittle text-center mb-90">
+                    <span>Upcoming Programs</span>
+                    <div class="section-tittle text-center mb-80">
+                    <span>What we are boing</span>
+                    <h2>We arrange many social events for charity donations</h2>
+                </div>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="row g-4">
+       
+            <div class="col-md-5 m-5">
+                <div class="card" >
+                    <img class="card-img-top" src="assets/img/products/1.png" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Shoe</h5>
+
+                        
+                        <p class="card-price">&#8377;19.99</p>
+                        <a href="contact.html" class="btn">BUY</a>
+                    </div>
+                </div>
+            </div>
+
+     
+            <div class="col-md-5 m-5">
+                <div class="card" >
+                    <img class="card-img-top" src="assets/img/products/2.png" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Hawai Chapple</h5>
+                        
+                        <p class="card-price">&#8377;29.99</p>
+                        <a href="contact.html" class="btn">BUY</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-5 m-5">
+                <div class="card" >
+                    <img class="card-img-top" src="assets/img/products/3.png" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Jut Bag</h5>
+                        
+                        <p class="card-price">&#8377;39.99</p>
+                        <a href="contact.html" class="btn">BUY</a>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="col-md-5 m-5">
+                <div class="card" >
+                    <img class="card-img-top" src="assets/img/products/4.png" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Handicraft Product </h5>
+                        
+                        <p class="card-price">&#8377;49.99</p>
+                        <a href="contact.html" class="btn">BUY</a>
+                    </div>
+                </div>
+            </div>
+
+           
+            <div class="col-md-5 m-5">
+                <div class="card" >
+                    <img class="card-img-top" src="assets/img/products/5.png" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Handloom Product </h5>
+                        
+                        <p class="card-price">&#8377;59.99</p>
+                        <a href="contact.html" class="btn">BUY</a>
+                    </div>
+                </div>
+            </div>
+
+       
+            <div class="col-md-5 m-5">
+                <div class="card" >
+                    <img class="card-img-top" src="assets/img/products/6.png" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Housekeeping Product </h5>
+                        
+                        <p class="card-price">&#8377;69.99</p>
+                        <a href="contact.html" class="btn">BUY</a>
+                    </div>
+                </div>
+            </div>
+
+          
+            <div class="col-md-5 m-5">
+                <div class="card" >
+                    <img class="card-img-top" src="assets/img/products/7.png" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Agarbatti</h5>
+                        
+                        <p class="card-price">&#8377;79.99</p>
+                        <a href="contact.html" class="btn">BUY</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-5 m-5">
+                <div class="card" >
+                    <img class="card-img-top" src="assets/img/products/8.png" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Rugs</h5>
+                        
+                        <p class="card-price">&#8377;89.99</p>
+                        <a href="contact.html" class="btn">BUY</a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+
+        <!-- <section class="featured-job-area section-padding30 section-bg2"
+    data-background="assets/img/gallery/section_bg03.png">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xl-7 col-lg-9 col-md-10 col-sm-12">
+        
+                <div class="section-tittle text-center mb-80">
+                    <span>What we are boing</span>
+                    <h2>We arrange many social events for charity donations</h2>
+                </div>
+            </div>
+        </div>
+
+   </div>
+</section> -->
+
+
+        <div class="event-container mb-5">
+    <div class="row">
+        <!-- Event Card 1 -->
+        <div class="col-md-4 event-card">
+            <div class="event-image">
+                <img src="assets/img/event/image2.jpg" alt="Event Image">
+            </div>
+            <div class="event-details">
+                <h3>Event Title 1</h3>
+                <p>Join us for an exciting event where you will learn new skills and network with professionals in the industry.
+                Join us for an exciting event where you will learn new skills and network with professionals in the industry.
+                Join us for an exciting event where you will learn new skills and network with professionals in the industry.</p>
+                    <div class="event-info">
+                        <div class="location">
+                            <img src="assets/img/event/location.png" alt="Location Logo"> Prayagraj
+                        </div>
+                        <div class="date">
+                            <img src="assets/img/event/date-time.png" alt="Calendar Logo"> September 25, 2024, 6:00 PM
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+
+         <div class="col-md-4 event-card">
+            <div class="event-image">
+                <img src="assets/img/event/image2.jpg" alt="Event Image">
+            </div>
+            <div class="event-details">
+                <h3>Event Title 1</h3>
+                <p>Join us for an exciting event where you will learn new skills and network with professionals in the industry.
+                Join us for an exciting event where you will learn new skills and network with professionals in the industry.
+                Join us for an exciting event where you will learn new skills and network with professionals in the industry.</p>
+                    <div class="event-info">
+                        <div class="location">
+                            <img src="assets/img/event/location.png" alt="Location Logo"> Prayagraj
+                        </div>
+                        <div class="date">
+                            <img src="assets/img/event/date-time.png" alt="Calendar Logo"> September 25, 2024, 6:00 PM
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+         <div class="col-md-4 event-card">
+            <div class="event-image">
+                <img src="assets/img/event/image2.jpg" alt="Event Image">
+            </div>
+            <div class="event-details">
+                <h3>Event Title 1</h3>
+                <p>Join us for an exciting event where you will learn new skills and network with professionals in the industry.
+                Join us for an exciting event where you will learn new skills and network with professionals in the industry.
+                Join us for an exciting event where you will learn new skills and network with professionals in the industry.</p>
+                    <div class="event-info">
+                        <div class="location">
+                            <img src="assets/img/event/location.png" alt="Location Logo"> Prayagraj
+                        </div>
+                        <div class="date">
+                            <img src="assets/img/event/date-time.png" alt="Calendar Logo"> September 25, 2024, 6:00 PM
+                        </div>
+                    </div>
+            </div>
+        </div>
+</div>
+</div>
+</div>
+
 <!-- Featured_job_end -->
 <!--? Team Ara Start -->
 <div class="team-area pt-160 pb-160">

@@ -280,7 +280,38 @@
 -->
 <div class="gallery">
   <figure>
-    <img src="assets/img/hero/1.png" alt="" />
+    <img src="assets/img/multi-media/gallery/image1.jpg">
+
+    <!-- <figcaption>Daytona Beach <small>United States</small></figcaption> -->
+  </figure>
+  <figure>
+  <img src="assets/img/multi-media/gallery/image2.jpg">
+    
+    <!-- <figcaption>Териберка, gorod Severomorsk <small>Russia</small></figcaption> -->
+  </figure>
+  <figure>
+  <img src="assets/img/multi-media/gallery/image3.jpg">
+    
+    <!-- <figcaption>
+      Bad Pyrmont <small>Deutschland</small>
+    </figcaption> -->
+  </figure>
+  <figure>
+  <img src="assets/img/multi-media/gallery/image4.jpg">
+   <!-- <figcaption>Yellowstone National Park <small>United States</small></figcaption> -->
+  </figure>
+  <figure>
+  <img src="assets/img/multi-media/gallery/image5.jpg">
+   <!-- <figcaption>Quiraing, Portree <small>United Kingdom</small></figcaption> -->
+  </figure>
+  <figure>
+  <img src="assets/img/multi-media/gallery/image6.jpg">
+    <!-- <figcaption>Highlands <small>United States</small></figcaption> -->
+  </figure>
+  <figure>
+  <img src="assets/img/hero/1.png" alt="" />
+    <!-- <img src="assets/img/hero/1.png" alt="" /> -->
+    <!-- <figcaption>Daytona Beach <small>United States</small></figcaption> -->
   </figure>
   <figure>
     <img src="assets/img/hero/2.png" alt="" />
